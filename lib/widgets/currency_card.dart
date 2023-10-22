@@ -48,8 +48,8 @@ class CurrencyCard extends StatelessWidget {
                   children: [
                     Text(
                       amount,
-                      style: const TextStyle(
-                        color: Colors.white,
+                      style: TextStyle(
+                        color: isInverted ? blackColor : Colors.white,
                         fontSize: 20,
                       ),
                     ),
@@ -59,7 +59,7 @@ class CurrencyCard extends StatelessWidget {
                     Text(
                       code,
                       style: TextStyle(
-                        color: Colors.white.withOpacity(0.8),
+                        color: isInverted ? blackColor : Colors.white,
                         fontSize: 20,
                       ),
                     ),

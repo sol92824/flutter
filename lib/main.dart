@@ -23,7 +23,7 @@ class App extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const SizedBox(
-                    height: 80,
+                    height: 50,
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.end,
@@ -47,7 +47,7 @@ class App extends StatelessWidget {
                     ],
                   ),
                   const SizedBox(
-                    height: 70,
+                    height: 10,
                   ),
                   Text(
                     'Total Balance',
@@ -86,7 +86,7 @@ class App extends StatelessWidget {
                     ],
                   ),
                   const SizedBox(
-                    height: 100,
+                    height: 20,
                   ),
                   Row(
                     crossAxisAlignment: CrossAxisAlignment.end,
