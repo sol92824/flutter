@@ -1,4 +1,4 @@
-# toonflix
+# flutter
 
 A new Flutter project.
 
@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### ScreenShot
+
 ![스크린샷 2023-10-22 163818](https://github.com/sol92824/flutter/assets/147969092/faf8f9e6-b799-4441-a79d-713b3025f4ff)
